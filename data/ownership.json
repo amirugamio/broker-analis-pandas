@@ -2,7 +2,7 @@
   "ok": true,
   "engine": "pandas",
   "generatedFrom": "Laporan_Format_Baris_Garis.xlsx",
-  "generatedAt": "2026-10-21T08:35:59.836866+00:00",
+  "generatedAt": "2026-10-21T14:02:56.070736+00:00",
   "stocks": {
     "TRUE": [
       {
@@ -19,7 +19,7 @@
         "stock": "TRUE",
         "holder": "PT PERINTIS TRINITI PROPERTI TBK",
         "porto": "886M",
-        "changeText": "-1,4145%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "YP"
         ],
@@ -31,7 +31,7 @@
         "stock": "AADI",
         "holder": "ADARO STRATEGIC INVESTMENTS",
         "porto": "3.2B",
-        "changeText": "0,0000%",
+        "changeText": "4,6278%",
         "brokerCodes": [
           "CITIBANK",
           "DEUTSCHE",
@@ -104,7 +104,7 @@
         "stock": "ABMM",
         "holder": "DRS LO KHENG HONG",
         "porto": "156.8M",
-        "changeText": "0,0002%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "BQ",
           "CC",
@@ -249,8 +249,8 @@
       {
         "stock": "ADMR",
         "holder": "ALAMTRI RESOURCES INDONESIA TBK PT",
-        "porto": "34.9B",
-        "changeText": "0,0000%",
+        "porto": "35B",
+        "changeText": "0,3226%",
         "brokerCodes": [
           "KI"
         ],
@@ -391,8 +391,8 @@
       {
         "stock": "AHAP",
         "holder": "ASURANSI CENTRAL ASIA, PT",
-        "porto": "3.8B",
-        "changeText": "0,0000%",
+        "porto": "5.3B",
+        "changeText": "37,7300%",
         "brokerCodes": [
           "CENTRAL"
         ],
@@ -1210,8 +1210,8 @@
       {
         "stock": "ARNA",
         "holder": "PT ARWANA CITRAMULIA, Tbk",
-        "porto": "394.8M",
-        "changeText": "0,3814%",
+        "porto": "397.8M",
+        "changeText": "0,7599%",
         "brokerCodes": [
           "DR"
         ],
@@ -1663,7 +1663,7 @@
         "stock": "ATLA",
         "holder": "RUDI R. SUTANTRA",
         "porto": "2.6B",
-        "changeText": "-0,3861%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "AG"
         ],
@@ -2314,8 +2314,8 @@
       {
         "stock": "BDKR",
         "holder": "HARUNA BINOSWARA JAYA, PT",
-        "porto": "253.1M",
-        "changeText": "0,0004%",
+        "porto": "256M",
+        "changeText": "1,1350%",
         "brokerCodes": [
           "CP"
         ],
@@ -3116,7 +3116,7 @@
         "stock": "BMTR",
         "holder": "PT MNC ASIA HOLDING TBK",
         "porto": "4.7B",
-        "changeText": "0,0000%",
+        "changeText": "-0,1342%",
         "brokerCodes": [
           "AG",
           "AI",
@@ -3751,7 +3751,7 @@
         "stock": "BSML",
         "holder": "PT GOLDFIVE INVESTMENT CAPITAL",
         "porto": "672.8M",
-        "changeText": "0,6659%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "CP",
           "FS",
@@ -3891,8 +3891,8 @@
       {
         "stock": "BTON",
         "holder": "EDDO CHANDRA",
-        "porto": "36.8M",
-        "changeText": "-0,0002%",
+        "porto": "36.5M",
+        "changeText": "-0,0010%",
         "brokerCodes": [
           "KK"
         ],
@@ -5256,8 +5256,8 @@
       {
         "stock": "DATA",
         "holder": "VERAH WAHYUDI SINGGIH WONG",
-        "porto": "400.1M",
-        "changeText": "0,0000%",
+        "porto": "400.5M",
+        "changeText": "0,0001%",
         "brokerCodes": [
           "AO",
           "AZ",
@@ -5397,8 +5397,8 @@
       {
         "stock": "DEFI",
         "holder": "TATANG TARYANA",
-        "porto": "43.5M",
-        "changeText": "0,0000%",
+        "porto": "46.6M",
+        "changeText": "7,0799%",
         "brokerCodes": [
           "XL"
         ],
@@ -5485,8 +5485,8 @@
       {
         "stock": "DEWI",
         "holder": "SUJITO NGATIMAN",
-        "porto": "151.6M",
-        "changeText": "0,0000%",
+        "porto": "145.9M",
+        "changeText": "-3,7590%",
         "brokerCodes": [
           "XA"
         ],
@@ -5664,7 +5664,7 @@
         "stock": "DILD",
         "holder": "DRS LO KHENG HONG",
         "porto": "796.2M",
-        "changeText": "0,5811%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "AZ",
           "BQ",
@@ -5741,7 +5741,7 @@
         "stock": "DKFT",
         "holder": "PT JINSHENG MINING",
         "porto": "3.7B",
-        "changeText": "0,0000%",
+        "changeText": "0,0473%",
         "brokerCodes": [
           "AZ",
           "BQ"
@@ -5831,7 +5831,7 @@
         "stock": "DNET",
         "holder": "ANTHONI SALIM",
         "porto": "3.6B",
-        "changeText": "2,2295%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "CC",
           "CENTRAL",
@@ -6502,8 +6502,8 @@
       {
         "stock": "EMMI",
         "holder": "PT YULIE SEKURITAS INDONESIA TBK",
-        "porto": "186.8M",
-        "changeText": "0,0002%",
+        "porto": "188.8M",
+        "changeText": "1,0775%",
         "brokerCodes": [
           "RS"
         ],
@@ -6641,7 +6641,7 @@
         "stock": "ENRG",
         "holder": "Bakrie Kalila Investment, PT",
         "porto": "3.1B",
-        "changeText": "-19,1253%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "BR",
           "CP",
@@ -6668,7 +6668,7 @@
         "stock": "ENRG",
         "holder": "PT MAYBANK SEKURITAS INDONESIA - REGISTRAR",
         "porto": "2.4B",
-        "changeText": "0,1404%",
+        "changeText": "-0,1966%",
         "brokerCodes": [
           "ZP"
         ],
@@ -6678,7 +6678,7 @@
         "stock": "ENRG",
         "holder": "PT Shima Global Kapital",
         "porto": "4.7B",
-        "changeText": "-2,1369%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "BQ",
           "BR",
@@ -6762,6 +6762,18 @@
     "ERAA": [
       {
         "stock": "ERAA",
+        "holder": "ERAJAYA SWASEMBADA TBK, PT",
+        "porto": "866.8M",
+        "changeText": "0,0000%",
+        "brokerCodes": [
+          "KI",
+          "LG",
+          "YU"
+        ],
+        "source": "pandas:Laporan_Format_Baris_Garis.xlsx"
+      },
+      {
+        "stock": "ERAA",
         "holder": "ERALINK INTERNATIONAL PT",
         "porto": "2.6B",
         "changeText": "0,0000%",
@@ -6804,7 +6816,7 @@
         "stock": "ESSA",
         "holder": "AKRAYA INTERNATIONAL PT",
         "porto": "1.4B",
-        "changeText": "0,0000%",
+        "changeText": "0,0768%",
         "brokerCodes": [
           "LG"
         ],
@@ -7077,8 +7089,8 @@
       {
         "stock": "FILM",
         "holder": "PT SAMUEL SEKURITAS INDONESIA",
-        "porto": "1B",
-        "changeText": "0,0000%",
+        "porto": "946M",
+        "changeText": "-9,8426%",
         "brokerCodes": [
           "IF"
         ],
@@ -7329,8 +7341,8 @@
       {
         "stock": "FORE",
         "holder": "FERRY SUDJONO",
-        "porto": "536.9M",
-        "changeText": "0,3483%",
+        "porto": "537.3M",
+        "changeText": "0,0001%",
         "brokerCodes": [
           "DEUTSCHE",
           "HP",
@@ -7398,8 +7410,8 @@
       {
         "stock": "FUJI",
         "holder": "GIDEON SURYATIKA",
-        "porto": "67.7M",
-        "changeText": "0,0000%",
+        "porto": "74.1M",
+        "changeText": "9,4200%",
         "brokerCodes": [
           "CP",
           "MG"
@@ -7409,8 +7421,8 @@
       {
         "stock": "FUJI",
         "holder": "JEFRI NEDI",
-        "porto": "109.3M",
-        "changeText": "0,0000%",
+        "porto": "97M",
+        "changeText": "-11,2584%",
         "brokerCodes": [
           "CP",
           "DX"
@@ -7829,8 +7841,8 @@
       {
         "stock": "GOTO",
         "holder": "PT GOTO GOJEK TOKOPEDIA TBK",
-        "porto": "68.3B",
-        "changeText": "1,1854%",
+        "porto": "75.8B",
+        "changeText": "10,9826%",
         "brokerCodes": [
           "KI"
         ],
@@ -7862,7 +7874,7 @@
         "stock": "GPRA",
         "holder": "ABADIMUKTI GUNALESTARI, PT",
         "porto": "1.9B",
-        "changeText": "-0,6086%",
+        "changeText": "-3,0297%",
         "brokerCodes": [
           "CP",
           "HD",
@@ -7878,8 +7890,8 @@
       {
         "stock": "GPRA",
         "holder": "ADITYA ANTONIUS",
-        "porto": "235.1M",
-        "changeText": "-0,0000%",
+        "porto": "260.1M",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "MG",
           "OD",
@@ -7896,6 +7908,17 @@
         "brokerCodes": [
           "XA",
           "YP"
+        ],
+        "source": "pandas:Laporan_Format_Baris_Garis.xlsx"
+      },
+      {
+        "stock": "GPRA",
+        "holder": "YEANNE",
+        "porto": "216.1M",
+        "changeText": "0,0000%",
+        "brokerCodes": [
+          "AG",
+          "OD"
         ],
         "source": "pandas:Laporan_Format_Baris_Garis.xlsx"
       }
@@ -8100,8 +8123,7 @@
         "brokerCodes": [
           "AO",
           "BQ",
-          "DR",
-          "KI"
+          "DR"
         ],
         "source": "pandas:Laporan_Format_Baris_Garis.xlsx"
       },
@@ -8109,7 +8131,7 @@
         "stock": "GULA",
         "holder": "IRSYAD HANIF",
         "porto": "109.8M",
-        "changeText": "15,0386%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "DR",
           "EP"
@@ -8532,7 +8554,7 @@
         "stock": "HELI",
         "holder": "PT. AVIA NUSANTARA KHATULISTIWA",
         "porto": "70M",
-        "changeText": "-0,0000%",
+        "changeText": "-0,0001%",
         "brokerCodes": [
           "AI"
         ],
@@ -8818,7 +8840,7 @@
         "stock": "HRTA",
         "holder": "PT. TERANG ANUGRAH ABADI",
         "porto": "3.3B",
-        "changeText": "0,0000%",
+        "changeText": "0,1329%",
         "brokerCodes": [
           "CC"
         ],
@@ -8874,7 +8896,7 @@
       {
         "stock": "HYGN",
         "holder": "PERSHING LLC MAIN CUSTODY ACCOUNT",
-        "porto": "216.5M",
+        "porto": "219.6M",
         "changeText": "0,0000%",
         "brokerCodes": [
           "CITIBANK"
@@ -8898,7 +8920,7 @@
         "stock": "IATA",
         "holder": "PT. KARYA PACIFIC INVESTAMA",
         "porto": "19.5B",
-        "changeText": "3,5139%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "AI"
         ],
@@ -9009,8 +9031,8 @@
       {
         "stock": "IDEA",
         "holder": "EKO DESRIYANTO",
-        "porto": "402.6M",
-        "changeText": "-0,0001%",
+        "porto": "402.8M",
+        "changeText": "0,0001%",
         "brokerCodes": [
           "CC",
           "IU",
@@ -9780,8 +9802,8 @@
       {
         "stock": "IPOL",
         "holder": "PT. HOKI INVESTASI SEJATI",
-        "porto": "338M",
-        "changeText": "0,0000%",
+        "porto": "340.4M",
+        "changeText": "0,7290%",
         "brokerCodes": [
           "AF",
           "MG"
@@ -10009,8 +10031,8 @@
       {
         "stock": "ITMG",
         "holder": "PT INDO TAMBANGRAYA MEGAH TBK",
-        "porto": "69.7M",
-        "changeText": "2,0934%",
+        "porto": "70.7M",
+        "changeText": "0,0013%",
         "brokerCodes": [
           "NI"
         ],
@@ -10067,8 +10089,8 @@
       {
         "stock": "JAST",
         "holder": "UOB KAY HIAN PRIVATE LIMITED",
-        "porto": "334.4M",
-        "changeText": "0,2999%",
+        "porto": "341M",
+        "changeText": "1,9509%",
         "brokerCodes": [
           "AI"
         ],
@@ -10165,8 +10187,8 @@
       {
         "stock": "JECX",
         "holder": "MAGNA SELARAS LESTARI PT",
-        "porto": "297.4M",
-        "changeText": "0,0000%",
+        "porto": "297.7M",
+        "changeText": "0,0001%",
         "brokerCodes": [
           "LG"
         ],
@@ -10176,7 +10198,7 @@
         "stock": "JECX",
         "holder": "SARANA MEDITAMA METROPOLITAN TBK PT",
         "porto": "1.2B",
-        "changeText": "0,5575%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "LG"
         ],
@@ -10530,7 +10552,7 @@
         "stock": "KBAG",
         "holder": "SALIM LIM",
         "porto": "747.5M",
-        "changeText": "0,0001%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "NI"
         ],
@@ -11278,8 +11300,8 @@
       {
         "stock": "KPIG",
         "holder": "PT MNC ASIA HOLDING TBK",
-        "porto": "12.8B",
-        "changeText": "-20,0393%",
+        "porto": "12.7B",
+        "changeText": "-0,3941%",
         "brokerCodes": [
           "AG",
           "CP",
@@ -11292,8 +11314,8 @@
       {
         "stock": "KPIG",
         "holder": "PT MNC Sekuritas",
-        "porto": "18.5B",
-        "changeText": "31,5121%",
+        "porto": "21.5B",
+        "changeText": "15,9011%",
         "brokerCodes": [
           "EP"
         ],
@@ -11302,8 +11324,8 @@
       {
         "stock": "KPIG",
         "holder": "PT. MNC SEKURITAS",
-        "porto": "18.5B",
-        "changeText": "31,5121%",
+        "porto": "21.5B",
+        "changeText": "15,9011%",
         "brokerCodes": [
           "EP"
         ],
@@ -11554,8 +11576,8 @@
       {
         "stock": "LEAD",
         "holder": "MANOJ PITAMBER NANWANI",
-        "porto": "302.6M",
-        "changeText": "0,0000%",
+        "porto": "304.6M",
+        "changeText": "0,6609%",
         "brokerCodes": [
           "TP",
           "YU"
@@ -12362,7 +12384,7 @@
         "stock": "MAXI",
         "holder": "PT KARYA NUSA PERDANA",
         "porto": "1.1B",
-        "changeText": "-0,0001%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "FZ"
         ],
@@ -12371,8 +12393,8 @@
       {
         "stock": "MAXI",
         "holder": "TINA IRAWATY",
-        "porto": "689.6M",
-        "changeText": "0,0001%",
+        "porto": "690.6M",
+        "changeText": "0,1450%",
         "brokerCodes": [
           "FZ"
         ],
@@ -12765,7 +12787,7 @@
         "stock": "MDLN",
         "holder": "PANIN SEKURITAS Tbk, PT",
         "porto": "2.2B",
-        "changeText": "0,0000%",
+        "changeText": "3,2325%",
         "brokerCodes": [
           "GR"
         ],
@@ -12774,8 +12796,8 @@
       {
         "stock": "MDLN",
         "holder": "PT HONORIS CORPORINDO PRATAMA",
-        "porto": "1.5B",
-        "changeText": "0,0001%",
+        "porto": "1.4B",
+        "changeText": "-4,6748%",
         "brokerCodes": [
           "DH",
           "DR",
@@ -13332,7 +13354,7 @@
         "stock": "MMIX",
         "holder": "PT MULTI INTI USAHA",
         "porto": "2.7B",
-        "changeText": "0,0904%",
+        "changeText": "0,6004%",
         "brokerCodes": [
           "AG",
           "AP",
@@ -13363,7 +13385,7 @@
         "stock": "MNCN",
         "holder": "PT GLOBAL MEDIACOM TBK",
         "porto": "5.4B",
-        "changeText": "-2,4400%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "EP",
           "RAKYAT",
@@ -13636,7 +13658,7 @@
         "stock": "MSIN",
         "holder": "PT MNC Sekuritas",
         "porto": "8.3B",
-        "changeText": "7,1173%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "EP"
         ],
@@ -13646,7 +13668,7 @@
         "stock": "MSIN",
         "holder": "PT. MNC SEKURITAS",
         "porto": "8.3B",
-        "changeText": "7,1173%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "EP"
         ],
@@ -13691,8 +13713,8 @@
       {
         "stock": "MTEL",
         "holder": "GOVERNMENT OF SINGAPORE",
-        "porto": "4.5B",
-        "changeText": "0,0000%",
+        "porto": "4.4B",
+        "changeText": "-0,0000%",
         "brokerCodes": [
           "CITIBANK"
         ],
@@ -14049,7 +14071,7 @@
         "stock": "NANO",
         "holder": "PT SOFTBANK VENTURA INDONESIA",
         "porto": "316.4M",
-        "changeText": "-2,7363%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "CC"
         ],
@@ -14572,16 +14594,6 @@
       },
       {
         "stock": "NSSS",
-        "holder": "PARADISO RESOURCES LTD",
-        "porto": "1.3B",
-        "changeText": "-7,4829%",
-        "brokerCodes": [
-          "IF"
-        ],
-        "source": "pandas:Laporan_Format_Baris_Garis.xlsx"
-      },
-      {
-        "stock": "NSSS",
         "holder": "PT NUSANTARA MAKMUR LESTARI",
         "porto": "2.2B",
         "changeText": "0,0000%",
@@ -14593,8 +14605,8 @@
       {
         "stock": "NSSS",
         "holder": "PT SAMUEL SEKURITAS INDONESIA",
-        "porto": "7.6B",
-        "changeText": "1,3861%",
+        "porto": "8.1B",
+        "changeText": "6,9348%",
         "brokerCodes": [
           "IF"
         ],
@@ -14603,7 +14615,7 @@
       {
         "stock": "NSSS",
         "holder": "SAMUEL INTERNATIONAL",
-        "porto": "3.6B",
+        "porto": "4.9B",
         "changeText": "0,0000%",
         "brokerCodes": [
           "GR",
@@ -15283,8 +15295,8 @@
       {
         "stock": "PEGE",
         "holder": "OPTIMUS VISION GLOBAL PTE.LTD",
-        "porto": "197.6M",
-        "changeText": "0,0000%",
+        "porto": "205.6M",
+        "changeText": "4,0840%",
         "brokerCodes": [
           "PG"
         ],
@@ -16067,8 +16079,8 @@
       {
         "stock": "PRDA",
         "holder": "PT PRODIA WIDYAHUSADA TBK",
-        "porto": "69.5M",
-        "changeText": "0,0012%",
+        "porto": "71.1M",
+        "changeText": "2,3515%",
         "brokerCodes": [
           "CC",
           "DP"
@@ -16350,7 +16362,7 @@
         "stock": "PURA",
         "holder": "CGS INTERNATIONAL SECURITIES SINGAPORE PTE LTD",
         "porto": "393.1M",
-        "changeText": "0,0002%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "YU"
         ],
@@ -17437,7 +17449,7 @@
         "stock": "SCNP",
         "holder": "PT SELARAS CITRA NUSANTARA PERKASA TBK",
         "porto": "188.2M",
-        "changeText": "-0,0003%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "MI"
         ],
@@ -18244,7 +18256,7 @@
         "stock": "SMMA",
         "holder": "SINAR MAS CAKRAWALA",
         "porto": "3.2B",
-        "changeText": "0,0000%",
+        "changeText": "0,0737%",
         "brokerCodes": [
           "CITIBANK",
           "DH",
@@ -18620,7 +18632,7 @@
         "stock": "SPRE",
         "holder": "MOCH ADHI PAMUNGKAS",
         "porto": "45.2M",
-        "changeText": "0,0018%",
+        "changeText": "0,0001%",
         "brokerCodes": [
           "NI"
         ],
@@ -18628,6 +18640,16 @@
       }
     ],
     "SPTO": [
+      {
+        "stock": "SPTO",
+        "holder": "DUNROSS AND CO SA SICAV SIF",
+        "porto": "135.3M",
+        "changeText": "0,0000%",
+        "brokerCodes": [
+          "STANDARD CHARTERED"
+        ],
+        "source": "pandas:Laporan_Format_Baris_Garis.xlsx"
+      },
       {
         "stock": "SPTO",
         "holder": "FIDELITY FUNDS",
@@ -18664,7 +18686,7 @@
         "stock": "SQMI",
         "holder": "CGS INTERNATIONAL SECURITIES SINGAPORE PTE LTD",
         "porto": "2.1B",
-        "changeText": "0,9050%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "YU"
         ],
@@ -18810,7 +18832,7 @@
         "stock": "SRTG",
         "holder": "EDWIN SOERYADJAYA",
         "porto": "4.9B",
-        "changeText": "0,0000%",
+        "changeText": "0,0882%",
         "brokerCodes": [
           "CITIBANK",
           "DEUTSCHE",
@@ -18881,8 +18903,8 @@
       {
         "stock": "SSIA",
         "holder": "PT HENAN PUTIHRAI ASSET MANAGEMENT",
-        "porto": "620M",
-        "changeText": "0,0000%",
+        "porto": "636.2M",
+        "changeText": "2,6128%",
         "brokerCodes": [
           "RAKYAT"
         ],
@@ -18969,7 +18991,7 @@
         "stock": "STRK",
         "holder": "PHILLIP SECURITIES PTE LTD",
         "porto": "1.7B",
-        "changeText": "-0,0000%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "KK"
         ],
@@ -19819,7 +19841,7 @@
         "stock": "TLKM",
         "holder": "THE BANK OF NEW YORK MELLON",
         "porto": "6.2B",
-        "changeText": "1,2290%",
+        "changeText": "0,6880%",
         "brokerCodes": [
           "CC",
           "HSBC"
@@ -20672,11 +20694,10 @@
         "stock": "ULTJ",
         "holder": "SABANA PRAWIRA WIDJAJA",
         "porto": "5.5B",
-        "changeText": "25,0714%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "AH",
-          "AZ",
-          "SMBC"
+          "AZ"
         ],
         "source": "pandas:Laporan_Format_Baris_Garis.xlsx"
       }
@@ -20836,8 +20857,8 @@
       {
         "stock": "UNTR",
         "holder": "PT UNITED TRACTORS TBK",
-        "porto": "299.9M",
-        "changeText": "0,0000%",
+        "porto": "301.5M",
+        "changeText": "0,5444%",
         "brokerCodes": [
           "RAKYAT"
         ],
@@ -21312,8 +21333,8 @@
       {
         "stock": "WIFI",
         "holder": "DJONI",
-        "porto": "285M",
-        "changeText": "0,0000%",
+        "porto": "290M",
+        "changeText": "1,7544%",
         "brokerCodes": [
           "CC",
           "OD"
@@ -21324,7 +21345,7 @@
         "stock": "WIFI",
         "holder": "INVESTASI SUKSES BERSAMA PT",
         "porto": "1.5B",
-        "changeText": "-49,0000%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "DR",
           "TP",
@@ -21394,7 +21415,7 @@
         "stock": "WINR",
         "holder": "PT. PEMENANG NUSANTARA INTERNASIONAL",
         "porto": "2.4B",
-        "changeText": "-1,7207%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "AZ"
         ],
@@ -21406,7 +21427,7 @@
         "stock": "WINS",
         "holder": "JOHNSON WILLIANG SUTJIPTO",
         "porto": "336.3M",
-        "changeText": "-0,0001%",
+        "changeText": "0,0000%",
         "brokerCodes": [
           "CC",
           "KI",
@@ -21417,8 +21438,8 @@
       {
         "stock": "WINS",
         "holder": "MANOJ PITAMBER NANWANI",
-        "porto": "268.4M",
-        "changeText": "0,0000%",
+        "porto": "268.7M",
+        "changeText": "0,0001%",
         "brokerCodes": [
           "AH",
           "TP",
