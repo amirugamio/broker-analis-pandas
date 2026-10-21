@@ -1,13 +1,15 @@
-name: Download IDX and process ownership
+name: Process ownership with pandas
 
 on:
   workflow_dispatch:
   push:
     paths:
+      - 'Ringkasan Broker.xlsx'
+      - 'peng-lima-persen.xlsx'
       - 'scripts/**'
       - '.github/workflows/process-pandas.yml'
   schedule:
-    # 18.00 WIB = 11.00 UTC, every day (the script falls back to the latest available IDX data).
+    # 18.00 WIB = 11.00 UTC. This reprocesses the latest manually uploaded source files.
     - cron: '0 11 * * *'
 
 permissions:
@@ -29,17 +31,19 @@ jobs:
         with:
           python-version: '3.12'
       - name: Install dependencies
-        run: pip install pandas openpyxl curl_cffi
-      - name: Download latest source files from IDX
-        run: python scripts/download_idx.py
+        run: pip install pandas openpyxl
+      - name: Validate manual source files
+        run: |
+          test -s 'Ringkasan Broker.xlsx' || (echo 'File Ringkasan Broker.xlsx tidak ditemukan/kosong.' && exit 1)
+          test -s 'peng-lima-persen.xlsx' || (echo 'File peng-lima-persen.xlsx tidak ditemukan/kosong.' && exit 1)
       - name: Run pandas processing
         run: python scripts/proses_broker.py
       - name: Export dashboard JSON
         run: python scripts/export_json.py
-      - name: Commit only generated JSON
+      - name: Commit generated JSON only
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add data/ownership.json
-          git diff --cached --quiet || git commit -m 'Update IDX ownership data'
+          git diff --cached --quiet || git commit -m 'Update ownership JSON from manually uploaded IDX files'
           git push
