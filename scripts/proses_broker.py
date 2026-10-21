@@ -1,18 +1,10 @@
 import pandas as pd
 import re
 import openpyxl
-from pathlib import Path
 
 # 1. Baca File Excel Broker dan Kepemilikan >5% (gunakan header=1 untuk membaca baris judul gabungan)
-ROOT = Path(__file__).resolve().parents[1]
-broker_file = ROOT / 'Ringkasan Broker Terbaru.xlsx'
-ownership_files = sorted(ROOT.glob('peng-*-lima-persen.xlsx'), key=lambda p: p.stat().st_mtime, reverse=True)
-if not broker_file.exists():
-    raise FileNotFoundError('File broker belum diunduh. Jalankan scripts/download_idx_sources.py terlebih dahulu.')
-if not ownership_files:
-    raise FileNotFoundError('File kepemilikan >5% IDX belum diunduh. Jalankan scripts/download_idx_sources.py terlebih dahulu.')
-df_broker = pd.read_excel(broker_file, sheet_name=0)
-df_raw = pd.read_excel(ownership_files[0], sheet_name=0, header=1)
+df_broker = pd.read_excel('Ringkasan Broker.xlsx', sheet_name=0)
+df_raw = pd.read_excel('peng-lima-persen.xlsx', sheet_name=0, header=1)
 
 # 2. Daftar kata umum untuk membersihkan nama broker
 kata_umum = [
@@ -142,6 +134,6 @@ for idx, row in df_summary.iterrows():
     # Baris 2: Kosong di kolom saham, daftar kode broker di bawah nama pemegang saham
     ws.append(["", brokers, "", ""])
 
-output_filename = ROOT / "Laporan_Format_Baris_Garis.xlsx"
+output_filename = "Laporan_Format_Baris_Garis.xlsx"
 wb.save(output_filename)
 print(f"Selesai! File berhasil diperbarui dan disimpan sebagai: {output_filename}")

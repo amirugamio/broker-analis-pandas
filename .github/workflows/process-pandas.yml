@@ -1,4 +1,4 @@
-name: Download IDX and process ownership with pandas
+name: Download IDX and process ownership
 
 on:
   workflow_dispatch:
@@ -7,15 +7,20 @@ on:
       - 'scripts/**'
       - '.github/workflows/process-pandas.yml'
   schedule:
-    # 04:30 UTC = 11:30 WIB, weekdays
-    - cron: '30 4 * * 1-5'
+    # 18.00 WIB = 11.00 UTC, every day (the script falls back to the latest available IDX data).
+    - cron: '0 11 * * *'
 
 permissions:
   contents: write
 
+concurrency:
+  group: idx-ownership-pipeline
+  cancel-in-progress: false
+
 jobs:
   process:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -24,17 +29,17 @@ jobs:
         with:
           python-version: '3.12'
       - name: Install dependencies
-        run: pip install pandas openpyxl requests
+        run: pip install pandas openpyxl curl_cffi
       - name: Download latest source files from IDX
-        run: python scripts/download_idx_sources.py
-      - name: Run pandas calculation
+        run: python scripts/download_idx.py
+      - name: Run pandas processing
         run: python scripts/proses_broker.py
-      - name: Export result to JSON
+      - name: Export dashboard JSON
         run: python scripts/export_json.py
-      - name: Commit generated JSON only
+      - name: Commit only generated JSON
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add data/ownership.json
-          git diff --cached --quiet || git commit -m 'Update ownership data from IDX'
+          git diff --cached --quiet || git commit -m 'Update IDX ownership data'
           git push
